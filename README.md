@@ -136,7 +136,7 @@ Projects monthly revenue for all 12 months of 2026 using the best-performing Lin
 
 ### Option B — Local
 ```bash
-git clone https://github.com/your-username/pixelzone-big-data-analytics.git
+git clone https://github.com/suruthi-ks/pixelzone-big-data-analytics.git
 cd pixelzone-big-data-analytics
 pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook notebooks/PixelZone_BigData_Analytics.ipynb
